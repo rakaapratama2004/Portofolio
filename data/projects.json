@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Smart Egg Incubator",
+        "year": "2025",
+        "role": "Sensor Calibration Engineer",
+        "description": "Design and construction of a prototype Smart Egg Incubator equipped with a microcontroller-based automatic temperature and humidity control system. This project includes an LCD display interface for real-time monitoring, an active ventilation system, and a self-contained chassis.",
+        "image": "images/egg-incubator.jpeg"
+    },
+    {
+        "title": "Water Level Control and Monitoring System",
+        "year": "2025",
+        "role": "Team Member / Panel Assembly Technician",
+        "description": "Collaborate in a team to build a physical water level control system. This project integrates a microcontroller, electronic relays, and a water pump mounted on an extruded aluminum frame to simulate an industrial-scale fluid automation system.",
+        "image": "images/water-level.jpeg"
+    }
+]
